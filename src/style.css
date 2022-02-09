@@ -1,0 +1,48 @@
+body {
+  background: #f0ddaf;
+  text-align: center;
+  margin: 50px auto;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  opacity: 0.6;
+  margin: 0;
+}
+
+.reference-link {
+  opacity: 0.6;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+span {
+  opacity: 0.6;
+}
+
+p {
+  line-height: 1.5;
+  margin: 30px;
+}
+
+.navigation-links a {
+  padding: 5px;
+}
+
+.contact-info {
+  margin: 30px;
+  line-height: 1.5;
+}
+
+img {
+  margin: 30px;
+}
