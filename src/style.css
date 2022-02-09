@@ -1,7 +1,7 @@
 body {
   background: #f0ddaf;
   text-align: center;
-  margin: 50px auto;
+  margin: 50px;
 }
 
 h1 {
@@ -44,5 +44,7 @@ p {
 }
 
 img {
-  margin: 30px;
+  margin: 30px auto;
+  display: block;
+  border-radius: 10px;
 }
